@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072681341830",
+    "project_id": "cosmetics-catalog-3c357",
+    "storage_bucket": "cosmetics-catalog-3c357.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072681341830:android:f2e6598fb5632a081e9207",
+        "android_client_info": {
+          "package_name": "com.example.cosmetics_catalog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJfvFCUCl6MBL7kvpEYsNfybWQeZ_gcnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
